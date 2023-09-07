@@ -13,3 +13,10 @@ Sports are very important in ones's physical fitness. Physical sports help in fi
     | Basketball | Increases Concentration | 6                    |
     | Rugby      | Better Planning         | 4                    |
     | Chess      | Mind game               | 7                    | 
+
+    --------------------------------------------------------------------------------------
+
+## Quotes by famous Scientists
+
+>The science of today is the technology of tomorrow. – *Edward Teller*
+>The important thing is not to stop questioning. - *Albert Einstein*
