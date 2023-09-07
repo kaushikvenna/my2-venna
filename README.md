@@ -14,3 +14,5 @@ Goa has many **beaches** and one can enjoy and experience many **water sports**.
 * Apollo fish fry
 * Prawns Munchkins
 * Chicken Biryani
+
+[Link of MyStats]([Title](MyStats.md))
