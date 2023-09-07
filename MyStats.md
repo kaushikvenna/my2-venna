@@ -9,7 +9,7 @@ Myself  Kaushik. I am 2023 Graduate student from Electronics and Communication E
 Sports are very important in ones's physical fitness. Physical sports help in fitness and improves ones health while mind games improves cocentration and the memory power of an individual. The below table describes some important sports which are recommended by me:
 
 ### | Sports     | Why recommended         | Avg hours per week |
------------------------------------------------------------------
+_________________________________________________________________
     | Football   | Increases Leg Strength  | 5                  |
     | Basketball | Increases Concentration | 6                  |
     | Rugby      | Better Planning         | 4                  |
