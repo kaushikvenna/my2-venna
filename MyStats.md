@@ -20,3 +20,10 @@ Sports are very important in ones's physical fitness. Physical sports help in fi
 
 >The science of today is the technology of tomorrow. – *Edward Teller*
 >The important thing is not to stop questioning. - *Albert Einstein*
+
+----------------------------------------------------------------------------------------
+
+## HTML Code Snippet
+[link](https://stackoverflow.com/questions/53163898/add-subject-line-in-html)
+```<a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>```
+[snippet](https://css-tricks.com/snippets/html/mailto-links/)
