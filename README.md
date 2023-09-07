@@ -9,3 +9,8 @@ Goa has many **beaches** and one can enjoy and experience many **water sports**.
 2. Enjoy sea food
 3. Visit beaches
 4. Enjoy sunset and sunrise
+
+## Food at Goa
+* Apollo fish fry
+* Prawns Munchkins
+* Chicken Biryani
